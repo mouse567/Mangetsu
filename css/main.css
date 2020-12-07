@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* 
 html5doctor.com Reset Stylesheet
 v1.6.1
@@ -119,7 +120,7 @@ html {
 body {
   font-size: 16px;
   line-height: 1.6;
-  font-family: "Noto Serif JP", serif !important;
+  font-family: '游明朝','Yu Mincho',serif;
 }
 
 .menu {
